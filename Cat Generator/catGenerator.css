@@ -1,0 +1,18 @@
+.container-1{
+    border:1px solid black;
+    text-align:center;
+}
+
+.flex-box-container-1{
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    border:1px solid black;
+    justify-content: space-around;
+}
+
+.flex-box-container-1 img{
+    margin: 10px;
+    box-shadow: 10px 10px 11px gray;
+
+}
